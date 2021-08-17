@@ -3,7 +3,7 @@
 - 👀 I’m interested in back-end web development
 - 🌱 I’m currently learning PHP 7, MySQLite and JavaScript!
 - 📧 You can reach me on e-mail: contato@matheusmartins.dev
-- You can know more about me in my website: [matheusmartins.dev](https://matheusmartins.dev){:target="_blank"}
+- You can know more about me in my website: [matheusmartins.dev](https://matheusmartins.dev)
 
 <div>
   <a href="https://github.com/matheusmartinsdev" target="_blank">
