@@ -1,9 +1,11 @@
-## Hi! I'm Matheus Martins.
+## Oi! Eu sou o Matheus
 
-- 👀 I’m interested in back-end web development
-- 🌱 I’m currently learning PHP 7, MySQLite and JavaScript!
-- 📧 You can reach me on e-mail: contato@matheusmartins.dev
-- You can know more about me in my website: [matheusmartins.dev](https://matheusmartins.dev)
+- Atualmente estou interessado em desenvolvimento web no geral (front / back)
+- Atualmente estou me focando em PHP com MySQL e Arquitetura MVC!
+- 📧 Você pode me contactar através do meu e-mail: contato@matheusmartins.dev
+- Para saber mais informações sobre mim, meu trabalho e pensamentos: 
+  - [matheusmartins.dev](https://matheusmartins.dev) - website
+  - [matheusmartins.dev/blog](https://matheusmartins.dev/blog) - blog
 
 <div>
   <a href="https://github.com/matheusmartinsdev" target="_blank">
@@ -14,8 +16,8 @@
 
 <div style="display: inline_block">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
