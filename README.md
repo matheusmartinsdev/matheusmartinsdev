@@ -1,9 +1,9 @@
 ## Oi! Eu sou o Matheus
 
-- Atualmente estou interessado em desenvolvimento web no geral (front / back)
-- Atualmente estou me focando em PHP com MySQL e Arquitetura MVC!
+- 🤔 Estou interessado em desenvolvimento web no geral (front / back)
+- 🎯 Atualmente estou me focando em PHP com MySQL e Arquitetura MVC!
 - 📧 Você pode me contactar através do meu e-mail: contato@matheusmartins.dev
-- Para saber mais informações sobre mim, meu trabalho e pensamentos: 
+- 👨🏽‍💻 Para saber mais informações sobre mim, meu trabalho e pensamentos: 
   - [matheusmartins.dev](https://matheusmartins.dev) - website
   - [matheusmartins.dev/blog](https://matheusmartins.dev/blog) - blog
 
