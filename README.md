@@ -3,7 +3,7 @@
 - 🤔 Estou interessado em desenvolvimento web no geral (front / back)
 - 🎯 Atualmente estou me focando em PHP com MySQL e Arquitetura MVC!
 - 📧 Você pode me contactar através do meu e-mail: contato@matheusmartins.dev
-- 👨🏽‍💻 Para saber mais informações sobre mim, meu trabalho e pensamentos: 
+- 👨🏽‍💻 Para saber mais sobre mim, meu trabalho e projetos: 
   - [matheusmartins.dev](https://matheusmartins.dev) - website
   - [matheusmartins.dev/blog](https://matheusmartins.dev/blog) - blog
 
