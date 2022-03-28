@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Matheus
 
-- 🤔 Estou interessado em desenvolvimento web no geral (front / back)
-- 🎯 Atualmente estou focado em PHP com Laravel.
+- 🤔 Estou interessado em desenvolvimento web FullStack
+- 🎯 Atualmente estou focado em PHP / Laravel e VueJS.
 - 📧 Você pode me contactar através do meu e-mail: contato@matheusmartins.dev
 - 👨🏽‍💻 Para saber mais sobre mim, meu trabalho e projetos: 
   - [matheusmartins.dev](https://matheusmartins.dev) - website
@@ -33,5 +33,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
-
-![Snake animation](https://github.com/matheusmartinsdev/matheusmartinsdev/blob/output/github-contribution-grid-snake.svg)
