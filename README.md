@@ -8,8 +8,8 @@
   - [matheusmartins.dev/blog](https://matheusmartins.dev/blog) - blog
 
 <div>
+  [![Matheus Martins's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmartinsdev)](https://github.com/anuraghazra/github-readme-stats)
   <a href="https://github.com/matheusmartinsdev" target="_blank">
-    [![Matheus Martins's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmartinsdev)](https://github.com/anuraghazra/github-readme-stats)
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmartinsdev&theme=tokyonight&layout=compact"/>
   </a>
 </div>
