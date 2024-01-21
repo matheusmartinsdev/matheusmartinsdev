@@ -9,7 +9,7 @@
 
 <div>
   <a href="https://github.com/matheusmartinsdev" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmartinsdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    [![Matheus Martins's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmartinsdev)](https://github.com/anuraghazra/github-readme-stats)
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmartinsdev&theme=tokyonight&layout=compact"/>
   </a>
 </div>
