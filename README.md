@@ -1,5 +1,8 @@
 ## Oi! Eu sou o Matheus
 
+**Sobre mim**
+
+- 💼 Desenvolvedor na AGETRANSP (Agência Reguladora de Transportes e Rodovias do Governo do Estado do Rio de Janeiro) 
 - 🤔 Estou interessado em desenvolvimento web FullStack
 - 🎯 Atualmente estou focado em entender melhor sobre arquiteturas de sistemas.
 - 📧 Você pode me contactar através do meu e-mail: contato@matheusmartins.dev
@@ -8,23 +11,20 @@
   - [matheusmartins.dev/blog](https://matheusmartins.dev/blog) - blog
 
 <div>
-  [![Matheus Martins's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmartinsdev)](https://github.com/anuraghazra/github-readme-stats)
   <a href="https://github.com/matheusmartinsdev" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmartinsdev&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmartinsdev&theme=tokyonight&layout=compact"/>
   </a>
 </div>
 
-<div style="display: inline_block">
+<div>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 </div>
 
 ##
