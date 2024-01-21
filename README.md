@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Matheus
 
 - 🤔 Estou interessado em desenvolvimento web FullStack
-- 🎯 Atualmente estou focado em NodeJS e ReactJS.
+- 🎯 Atualmente estou focado em entender melhor sobre arquiteturas de sistemas.
 - 📧 Você pode me contactar através do meu e-mail: contato@matheusmartins.dev
 - 👨🏽‍💻 Para saber mais sobre mim, meu trabalho e projetos: 
   - [matheusmartins.dev](https://matheusmartins.dev) - website
